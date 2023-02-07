@@ -1,93 +1,92 @@
 [
   {
-    "name": "CargoPrime",
-    "desc": "Cargoprime Corporation is in the Freight Transportation Arrangement business.",
-    "image": "instagrammern",
+    "name": "Portfolio",
+    "desc": "Portfolio about me",
+    "image": "portfolio2",
     "category": "lamp",
     "links": {
-      "view": "https://dashboard.trailer-test.nightwell-logistics.com",
-      "code": "https://github.com/mukhtorov/trailer_prime"
+      "view": "https://tilla7766.netlify.app/#ru",
+      "code": "https://github.com/Mirismoil/portfoliya"
     }
   },
   {
-    "name": "Uchkurgan Design",
-    "desc": "Ant Desing clone without using ant or any other libraries and using each component as generic",
-    "image": "flipkartmern",
+    "name": "Lending",
+    "desc": "Join to marafon",
+    "image": "s",
     "category": "mern",
     "links": {
-      "view": "*",
-      "code": "https://github.com/azmu0520/uchkurgan"
+      "view": "https://site-lending.netlify.app/",
+      "code": "https://github.com/Mirismoil/site-lending"
     }
   },
   {
-    "name": "Houzing",
-    "desc": "Houzing project is for making Realtors job super easy",
-    "image": "resumegen",
+    "name": "Dashbord",
+    "desc": "This is project about peoples ",
+    "image": "dawbord",
     "category": "lamp",
     "links": {
-      "view": "https://houzing.netlify.app",
+      "view": "https://dashbordd.netlify.app/",
       "code": "https://github.com/azmu0520/Houzing"
     }
   },
   {
-    "name": "Polymergas",
-    "desc": "Corporation mainly trade in polyethylene and polypropylene raw materials.",
-    "image": "reactprojects",
+    "name": "Vetarenaria",
+    "desc": "This is project shows pets,cats and different animal",
+    "image": "cats",
     "category": "mern",
     "links": {
-      "view": "https://polymergasuz.netlify.app/",
-      "code": "https://github.com/azmu0520/polymergas"
+      "view": "https://mirismoil-exemenition.netlify.app/",
+      "code": "https://github.com/Mirismoil/2-month-exmenetion"
     }
   },
   {
-    "name": "Luna",
-    "desc": "E-commerce",
-    "image": "flipkartphp",
+    "name": "Affilliate",
+    "desc": "Affiliate is a Webflow template made for entrepreneurs who want a professional",
+    "image": "affilate",
     "category": "lamp",
     "links": {
-      "view": "https://luna-market.netlify.app/home",
-      "code": "https://github.com/mukhtorov/lunaOld"
+      "view": "https://affilliate.netlify.app/",
+      "code": "https://github.com/Mirismoil/affiliate-site"
     }
   },
   {
-    "name": "Digital One",
-    "desc": "This website is outsourcing software development company",
-    "image": "jspro",
+    "name": "Food sites",
+    "desc": "This website is illustrate the company cooked Chines food",
+    "image": "food",
     "category": "basicweb",
     "links": {
-      "view": "https://digital-one-uz.netlify.app/",
-      "code": "https://github.com/azmu0520/digital_one"
+      "view": "https://food-sites.netlify.app/",
+      "code": "https://github.com/Mirismoil/food-site"
     }
   },
   {
-    "name": "Crypto Curroncy",
-    "desc": "Crypto Curroncy website ",
-    "image": "webuiclones",
+    "name": "Coffee",
+    "desc": "This is project about Coffee",
+    "image": "cofee",
     "category": "mern",
     "links": {
-      "view": "https://crypto-currency-jango.netlify.app/",
-      "code": "https://github.com/azmu0520/crypto-currency-jango"
+      "view": "https://mirismoil-site-pesponsiv.netlify.app/",
+      "code": "https://github.com/Mirismoil/site-cofee-respons"
     }
   },
-
   {
-    "name": "React Generic Calendar",
+    "name": "Namangan City",
     "desc": "Genericly works written in reactjs",
-    "image": "hulu",
+    "image": "namangan24",
     "category": "basicweb",
     "links": {
-      "view": "https://react-generic-calendar.netlify.app/",
-      "code": "https://github.com/azmu0520/React_Calendar"
+      "view": "https://mirismoil2-month-1-lesson.netlify.app/",
+      "code": "https://github.com/Mirismoil/2-mont-1-lesson"
     }
   },
   {
-    "name": "Crud in React",
-    "desc": "Using all crud functionality in Reactjs",
-    "image": "portfolio1",
+    "name": "Animation",
+    "desc": "Animation trees",
+    "image": "trees",
     "category": "basicweb",
     "links": {
-      "view": "https://crud-in-reactjs.netlify.app/",
-      "code": "https://github.com/azmu0520/Crud-in-React"
+      "view": "https://animatsiya-js.netlify.app/",
+      "code": "*"
     }
   },
   {
@@ -96,8 +95,18 @@
     "image": "composey",
     "category": "basicweb",
     "links": {
-      "view": "https://rock-paper-scissor-gameuz.netlify.app/",
-      "code": "https://github.com/azmu0520/rock-paper-scissor"
+      "view": "https://pingpong77.netlify.app/",
+      "code": "*"
+    }
+  },
+  {
+    "name": "Ping Pong",
+    "desc": "Game",
+    "image": "game",
+    "category": "basicweb",
+    "links": {
+      "view": "https://gamen1.netlify.app/",
+      "code": "*"
     }
   }
 ]
