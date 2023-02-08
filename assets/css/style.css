@@ -330,6 +330,7 @@ header .navbar ul li a:hover {
 /* hero media queries starts*/
 @media (max-width: 450px) {
   .box-container{
+    display: flex;
     flex-direction: column;
   }
   .home .btn {
