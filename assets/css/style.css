@@ -329,6 +329,9 @@ header .navbar ul li a:hover {
 
 /* hero media queries starts*/
 @media (max-width: 450px) {
+  .box-container{
+    flex-direction: column;
+  }
   .home .btn {
     margin: 4rem 0;
   }
