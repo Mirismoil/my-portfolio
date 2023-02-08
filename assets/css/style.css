@@ -121,6 +121,10 @@ header .navbar ul li a:hover {
   border-bottom: 0.2rem solid #011aff;
   padding: 0.5rem 0;
 }
+.phone{
+  display: flex;
+  align-items: center;
+}
 /* navbar ends */
 
 /* hamburger icon starts*/
